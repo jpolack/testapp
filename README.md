@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+## Starting
+
+```
+flutter run
+```
+
+## testing
+
+```
+flutter test
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
